@@ -6,6 +6,10 @@ This project is a Python-based student attendance system using face recognition.
 - Automatic attendance marking with timestamps
 - Attendance records saved in a CSV file
 
+# Flowchart
+![image](https://github.com/user-attachments/assets/61a379e0-7e8c-4b55-b3a5-ef454fb92f79)
+
+
 # Requirements
 - Python 3.x
 
